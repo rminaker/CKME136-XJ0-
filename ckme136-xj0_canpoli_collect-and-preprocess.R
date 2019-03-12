@@ -1,4 +1,6 @@
-### == CKME136 XJ0  ==
+### == CKME136 XJ0 ==
+## RScript #1 - Collect and pre-process data from Twitter's REST API
+## Save two set of each data set => 1) raw data from API 2) filtered data for processing
 
 
 #Load packages
